@@ -15,7 +15,7 @@ namespace WebApplicationCollab.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "This is Yash's page for buddy(Vipu).";
+            ViewBag.Message = "This is Yash's page for buddy(Vipu).ok got it yash";
 
             return View();
         }
